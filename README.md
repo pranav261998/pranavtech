@@ -1,2 +1,2 @@
-#   MICO 
+#   MIkO 
 Build an Artificial Assistant
