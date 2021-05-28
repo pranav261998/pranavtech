@@ -1,1 +1,2 @@
-# pranavtech
+#   MICO 
+Build an Artificial Assistant
